@@ -5158,22 +5158,18 @@
     </comp>
     <comp lib="5" loc="(330,1030)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="5" loc="(330,360)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="5"/>
     </comp>
     <comp lib="5" loc="(330,490)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="5" loc="(330,890)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="7"/>
     </comp>
     <wire from="(240,1240)" to="(240,1250)"/>
@@ -5268,12 +5264,10 @@
     </comp>
     <comp lib="5" loc="(320,170)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="5" loc="(320,340)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="32"/>
     </comp>
     <wire from="(250,200)" to="(320,200)"/>
@@ -5711,67 +5705,54 @@
     </comp>
     <comp lib="5" loc="(370,10)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(370,1260)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(370,130)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(370,1380)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(370,1500)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(370,270)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(370,420)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(380,1020)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(380,1140)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(380,550)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(380,680)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(380,800)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(380,910)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <wire from="(260,1050)" to="(380,1050)"/>
@@ -6098,17 +6079,14 @@
     </comp>
     <comp lib="5" loc="(430,200)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(430,320)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <comp lib="5" loc="(430,80)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="trigger" val="falling"/>
       <a name="width" val="1"/>
     </comp>
     <wire from="(320,110)" to="(430,110)"/>
